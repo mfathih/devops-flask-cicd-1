@@ -1,4 +1,4 @@
-# DevOps Flask CI/CD Project 1
+# DevOps Flask CI/CD Project 1.0
 
 A simple containerized Flask web application built as a DevOps learning project.
 
@@ -19,6 +19,6 @@ docker compose up --build
 
 Part 1: Local Flask app
 Part 2: Docker + GitHub repo
-Part 3: AWS EC2 manual deployment  ← next
+Part 3: AWS EC2 manual deployment
 Part 4: Nginx reverse proxy
 Part 5: GitHub Actions CI/CD
